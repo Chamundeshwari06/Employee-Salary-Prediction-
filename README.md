@@ -3,11 +3,12 @@ A Streamlit web app that predicts whether an individual's income is above or bel
 ---
 ## 🧠 Machine Learning Algorithms Used
 
-- Decision Tree Classifier  
+- SVM
 - Random Forest Classifier  
-- Extra Trees Classifier  
-- Gradient Boosting Classifier  
-- Voting Classifier (Final model)
+- KNN
+- Gradient Boosting Classifier
+- Logistic Regression
+  
 
 ## 🚀 How to Run the App (Streamlit)
 
