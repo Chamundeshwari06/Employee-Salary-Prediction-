@@ -8,7 +8,7 @@ A Streamlit web app that predicts whether an individual's income is above or bel
 - Extra Trees Classifier  
 - Gradient Boosting Classifier  
 - Voting Classifier (Final model)
-- 
+
 ## 🚀 How to Run the App (Streamlit)
 
 1. Open **Command Prompt (CMD)**.
